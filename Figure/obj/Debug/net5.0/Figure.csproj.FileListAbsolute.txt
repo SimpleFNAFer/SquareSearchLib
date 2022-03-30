@@ -1,0 +1,12 @@
+D:\Repos\hhTasks\figures\SquareSearchLib\Figure\bin\Debug\net5.0\Figure.deps.json
+D:\Repos\hhTasks\figures\SquareSearchLib\Figure\bin\Debug\net5.0\Figure.dll
+D:\Repos\hhTasks\figures\SquareSearchLib\Figure\bin\Debug\net5.0\ref\Figure.dll
+D:\Repos\hhTasks\figures\SquareSearchLib\Figure\bin\Debug\net5.0\Figure.pdb
+D:\Repos\hhTasks\figures\SquareSearchLib\Figure\obj\Debug\net5.0\Figure.csprojAssemblyReference.cache
+D:\Repos\hhTasks\figures\SquareSearchLib\Figure\obj\Debug\net5.0\Figure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\hhTasks\figures\SquareSearchLib\Figure\obj\Debug\net5.0\Figure.AssemblyInfoInputs.cache
+D:\Repos\hhTasks\figures\SquareSearchLib\Figure\obj\Debug\net5.0\Figure.AssemblyInfo.cs
+D:\Repos\hhTasks\figures\SquareSearchLib\Figure\obj\Debug\net5.0\Figure.csproj.CoreCompileInputs.cache
+D:\Repos\hhTasks\figures\SquareSearchLib\Figure\obj\Debug\net5.0\Figure.dll
+D:\Repos\hhTasks\figures\SquareSearchLib\Figure\obj\Debug\net5.0\ref\Figure.dll
+D:\Repos\hhTasks\figures\SquareSearchLib\Figure\obj\Debug\net5.0\Figure.pdb
