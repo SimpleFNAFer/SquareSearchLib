@@ -1,11 +1,11 @@
-Решение:
+Р РµС€РµРЅРёРµ:
 
-Предположим, что в БД имеются 3 таблицы: 
--product (включает столбцы id и name), 
--category (включает  столбцы id и title),
--product_category (включает столбцы product_id category_id)
+РџСЂРµРґРїРѕР»РѕР¶РёРј, С‡С‚Рѕ РІ Р‘Р” РёРјРµСЋС‚СЃСЏ 3 С‚Р°Р±Р»РёС†С‹: 
+-product (РІРєР»СЋС‡Р°РµС‚ СЃС‚РѕР»Р±С†С‹ id Рё name), 
+-category (РІРєР»СЋС‡Р°РµС‚  СЃС‚РѕР»Р±С†С‹ id Рё title),
+-product_category (РІРєР»СЋС‡Р°РµС‚ СЃС‚РѕР»Р±С†С‹ product_id category_id)
 
-Тогда требуемый запрос:
+РўРѕРіРґР° С‚СЂРµР±СѓРµРјС‹Р№ Р·Р°РїСЂРѕСЃ:
 
 SELECT product.name, category.title
 FROM product
